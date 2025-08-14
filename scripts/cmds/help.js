@@ -7,7 +7,7 @@ module.exports = {
   config: {
     name: "help",
     version: "3.2",
-    author: "NTKhang // xnil6x",
+    author: "R I Y A D",
     countDown: 5,
     role: 0,
     description: "View command information with enhanced interface",
